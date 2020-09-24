@@ -1,0 +1,11 @@
+{
+  "name": "puppeteer-guancha",
+  "version": "1.0.0",
+  "description": "guancha.com\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C puppeteer to guancha.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "goonxh",
+  "license": "ISC"
+}
